@@ -1,0 +1,14 @@
+# File konfigurasi editor kode
+.vscode/
+.idea/
+
+# File sistem operasi
+.DS_Store
+
+# Gambar yang di-upload oleh pengguna
+# Kita tetap menyimpan folder dan gambar default, tapi mengabaikan gambar lain yang mungkin di-upload
+/pages/admin/fnb/uploads/*
+/assets/images/fnb/*
+!/assets/images/fnb/default.png
+/assets/images/promo/*
+!/assets/images/promo/default_promo.png
