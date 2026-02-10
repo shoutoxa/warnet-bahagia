@@ -209,15 +209,3 @@ Universitas Komputer Indonesia - Jurusan Teknik Informatika
 ## 🤝 Kontribusi
 
 Untuk bug report atau feature request, silakan hubungi tim pengembang.
-
-## 📞 Support
-
-Untuk pertanyaan atau bantuan, silakan hubungi:
-
-- Email: support@warnetbahagia.com
-- Website: www.warnetbahagia.com
-
----
-
-**Warnet Bahagia** - Sistem Manajemen Internet Cafe Terpadu
-© 2026 All Rights Reserved
